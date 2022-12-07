@@ -15,8 +15,7 @@ import static test_data.TestData.*;
 public class TestPersonalAccountPage {
 
     MainPage mainPage;
-    LoginPage loginPage;
-    PersonalAccountPage personalAccountPage;
+
 
     @Before
     @DisplayName("Логинюсь под учетной записью")
