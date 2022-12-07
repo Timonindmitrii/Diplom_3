@@ -1,0 +1,7 @@
+pom\MainPage.class
+pom\LoginPage.class
+pom\RegistrationPage.class
+pom\ForgotPasswordPage.class
+test_data\TestData.class
+DriverSetup.class
+pom\PersonalAccountPage.class
